@@ -1,0 +1,7 @@
+for the project to run successfully run the django server attached with the project
+type in the terminal : python manage.py runserver 192.168.122.1:8000
+you will need to install django and django rest
+
+compileSdkVersion 24
+minSdkVersion 14
+targetSdkVersion 21

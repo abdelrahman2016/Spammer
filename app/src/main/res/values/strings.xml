@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spammers</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="title_activity_my_blocked">MyBlocked</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_all_blocked_numbers">AllBlockedNumbers</string>
+    <string name="my_contacts">My Contacts</string>
+</resources>
